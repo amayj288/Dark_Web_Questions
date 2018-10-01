@@ -1,10 +1,50 @@
-What is the deep and dark web?
-What is the indexing method of accesing surface web?
+When did Tor get open-sourced?
+a. 2001
+b. 2004
+c. 2002
+
+What is the indexing method also referred to as?
+a. Spider-crawl
+b. Surfing
+c. Crawl
+
 What is the use of VPN while using surface web?
+a. Hide IP adress
+b. Change IP adress
+c. Redirect IP adress
+
 How do you access the Deep web?
-What is the Tor browser?
+a. VPN
+b. Tor
+c. Normally
+
+When did the Tor browser start?
+a. 1991
+b. 1994
+c. 2000
+
 Who started the Tor browser?
-Why is it called the onion router project?
-How are transactions made on the deep web and why?
+a. Hackers
+b. UK Govt.
+c. US Govt.
+
+What is another name for the Tor project?
+a. Onion project
+b. Torrent Onion project
+c. Onion router project
+
+How are transactions made on the deep web?
+a. Liquid Money
+b. Cash
+c. Cryptocurrency
+
 How many relay nodes are used in accessing the deep web?
+a. 4
+b. 3
+c. 2
+
 What will happen if you use just VPN to access the deep web?
+a.No issues
+b. You will be traced
+c. None
+
